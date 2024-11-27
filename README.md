@@ -1,6 +1,5 @@
 # Tonkeeper Wallet API (DRAFT)
 
-⚠️ This documentation is work-in-progress. Some features are not yet implemented.
 
 * [Definitions](#definitions)
 * [Payment URLs](#payment-urls)
@@ -94,7 +93,6 @@ Displays a specialized donation/tip interface.
 
 #### Unauthenticated contract deploys
 
-⚠️ DEPRECATED: use bin/init params (see above)
 
 ```
 https://app.tonkeeper.com/deploy/<address>?
